@@ -1,5 +1,8 @@
+# Tire de https://github.com/devopsjourney23/my-srsproject-demo/blob/master/README.md
+
 my-srsproject-demo
-01. Basic Architecture
+01
+. Basic Architecture
 
 Referring to srsran documentation, we'll try using ZeroMQ method for this setup. https://docs.srsran.com/projects/project/en/latest/tutorials/source/srsUE/source/index.html#zeromq-based-setup
 
