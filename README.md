@@ -1,4 +1,6 @@
-This is https://github.com/open5gs/open5gs.git project that I mounted on my personnal environnement in order to experience a fully containered educational 5G core lab. These are some relevent screenshot
+This is open5gs project that I mounted on my personnal environnement in order to experience a fully containered educational 5G core lab. Here are some relevent screenshots of the result I got.
+
+
 <img width="1098" height="607" alt="5GC" src="https://github.com/user-attachments/assets/5beac410-e5c9-4699-aedd-029953ad760d" />
 Logs d'un utilisateur attaché avec succès au réseau 5G
 <img width="1080" height="510" alt="gnb" src="https://github.com/user-attachments/assets/4ca7aa6d-9c13-4e10-83e6-b8144581352e" />
